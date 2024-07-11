@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-heading {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+.main {
+  justify-content: center;
+}
+.audio {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  padding: 10px;
+}
+.search-bar {
+  display: flex;
+  justify-content: center;
+}
+.song-list {
+  display: flex;
+}
+#songList {
+  align-items: center;
+  width: 100%;
+}
+.padding {
+  padding: 20px;
+}
+#playList {
+  width: 40%;
+}
